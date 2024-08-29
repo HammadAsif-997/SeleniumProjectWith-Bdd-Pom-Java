@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d06c478-4292-4dfb-99d1-dbc853b174e2" name="Changes" comment="This is my" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HammadAsifVenD&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HammadAsif-997/SeleniumWithBdd_POMOnJava.git&quot;,
+    &quot;accountId&quot;: &quot;d747a944-90af-45e1-b2cf-cba47ce38d79&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.1/testng-7.10.1-sources.jar!/org/testng/Assert.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.10.1/testng-7.10.1-sources.jar!/org/testng/internal/invokers/TestInvoker.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2gPlYh5NVA50JlV51y0Rvl86NOT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.Feature: add_shrits_to_cart.executor": "Run",
+    "Cucumber Java.Feature: add_to_cart.executor": "Run",
+    "Cucumber Java.Scenario: Add Dove Item to Cart.executor": "Run",
+    "Cucumber Java.Scenario: Add Shirts and shoes to cart (1).executor": "Run",
+    "Cucumber Java.Scenario: Add Shirts and shoes to cart.executor": "Debug",
+    "Cucumber Java.Scenario: Add Tshirts and shoes to cart.executor": "Run",
+    "Cucumber Java.Scenario: Add each makeup and men sale items with max price 200$,£ Or €. And add 15 items in total with Nonsale items.executor": "Run",
+    "Cucumber Java.Scenario: Add product to cart ending with M in men category.executor": "Run",
+    "Cucumber Java.Scenario: Login and Add Dove Item to Cart.executor": "Run",
+    "Maven.SeleniumWebAutomationFramework [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/hammad.asif_ventured/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml (1).executor": "Run",
+    "TestNG.C:/Users/hammad.asif_ventured/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml (2).executor": "Run",
+    "TestNG.C:/Users/hammad.asif_ventured/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml (3).executor": "Run",
+    "TestNG.C:/Users/hammad.asif_ventured/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml (4).executor": "Run",
+    "TestNG.C:/Users/hammad.asif_ventured/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml (5).executor": "Run",
+    "TestNG.C:/Users/hammad.asif_ventured/AppData/Local/JetBrains/IdeaIC2024.1/temp-testng-customsuite.xml.executor": "Run",
+    "TestNG.C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/browserstacktestng.xml.executor": "Run",
+    "TestNG.C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/testng.xml.executor": "Run",
+    "TestNG.DemoTest.InvalidPasswordloginTest.executor": "Run",
+    "TestNG.DemoTest.TestPostUser.executor": "Run",
+    "TestNG.DemoTest.executor": "Run",
+    "TestNG.TC_001.AddHighestPriceTShirtAndVerify.executor": "Debug",
+    "TestNG.TC_001.AddNewDoveItemAndVerify.executor": "Run",
+    "TestNG.TC_001.Scenario4.executor": "Run",
+    "TestNG.TC_001.Task4Scenario2.executor": "Run",
+    "TestNG.TC_001.executor": "Run",
+    "TestNG.TC_002.AddHighestPriceTShirtAndVerify.executor": "Run",
+    "TestNG.TC_002.Test2.executor": "Run",
+    "TestNG.TC_002.executor": "Run",
+    "TestNG.TC_003.Test2.executor": "Run",
+    "TestNG.TC_003.executor": "Run",
+    "TestNG.TC_LoginTest_001 (1).executor": "Run",
+    "TestNG.TC_LoginTest_001.AllItemsLowToHigh.executor": "Run",
+    "TestNG.TC_LoginTest_001.InvalidPasswordloginTest.executor": "Run",
+    "TestNG.TC_LoginTest_001.QuanityinCart.executor": "Run",
+    "TestNG.TC_LoginTest_001.ValidPasswordloginTest.executor": "Run",
+    "TestNG.TC_LoginTest_001.executor": "Run",
+    "TestNG.TC_LoginTest_001.loginTest.executor": "Run",
+    "TestNG.TC_LoginTest_002.InvalidPasswordloginTest.executor": "Run",
+    "TestNG.TC_LoginTest_002.TestPostUser.executor": "Run",
+    "TestNG.TC_LoginTest_002.executor": "Run",
+    "TestNG.TC_LoginTest_002.loginTest.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hammad.asif_ventured/IdeaProjects/RestAssureProject1",
+    "onboarding.tips.debug.path": "C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\src\test\java\utilities" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\target" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\src\test\java\pageObjects\automationteststore" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\src\test\java\testCases\automationteststore" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\Drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\src\test\java\testCases\automationteststore" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\src\test\java\testCases" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\src\test\java\testCases\automationteststore\StepDefinitions" />
+      <recent name="C:\Users\hammad.asif_ventured\IdeaProjects\SeleniumWebAutomationFramework\Configrations" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="testCases.automationteststore.StepDefinitions" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObjects.automationteststore" />
+      <recent name="testCases.automationteststore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: add_to_cart">
+    <configuration name="Feature: add_to_cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/testCases/automationteststore/features/add_to_cart.feature" />
+      <option name="GLUE" value="testCases.automationteststore.StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumWebAutomationFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: add_to_cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Add Dove Item to Cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/testCases/automationteststore/features/add_to_cart.feature" />
+      <option name="GLUE" value="testCases.automationteststore.StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumWebAutomationFramework" />
+      <option name="NAME_FILTER" value="^Add Dove Item to Cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add Dove Item to Cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add Dove Item to Cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_001.AddNewDoveItemAndVerify" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.automationteststore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases.automationteststore" />
+      <option name="MAIN_CLASS_NAME" value="testCases.automationteststore.TC_001" />
+      <option name="METHOD_NAME" value="AddNewDoveItemAndVerify" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_001.Task4Scenario2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.automationteststore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testCases.automationteststore" />
+      <option name="MAIN_CLASS_NAME" value="testCases.automationteststore.TC_001" />
+      <option name="METHOD_NAME" value="Task4Scenario2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: add_to_cart" />
+        <item itemvalue="TestNG.C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/testng.xml" />
+        <item itemvalue="TestNG.TC_001.AddNewDoveItemAndVerify" />
+        <item itemvalue="Cucumber Java.Scenario: Add Dove Item to Cart" />
+        <item itemvalue="TestNG.TC_001.Task4Scenario2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d06c478-4292-4dfb-99d1-dbc853b174e2" name="Changes" comment="" />
+      <created>1715607144577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715607144577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testCases/automationteststore/TC_001.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pageObjects/automationteststore/AddItemToCartPage.java</url>
+          <line>275</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pageObjects/automationteststore/AddItemToCartPage.java</url>
+          <line>278</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pageObjects/automationteststore/AddItemToCartPage.java</url>
+          <line>531</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pageObjects/automationteststore/AddItemToCartPage.java</url>
+          <line>529</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

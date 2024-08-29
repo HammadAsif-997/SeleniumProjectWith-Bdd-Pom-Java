@@ -1,0 +1,10 @@
+21:44:49.631 [ApplicationImpl pooled thread 122] INFO  c.b.l.BrowserStackRunExtension - testng
+21:44:49.631 [ApplicationImpl pooled thread 122] INFO  com.browserstack.utils.Helpers - null
+21:44:49.638 [ApplicationImpl pooled thread 122] INFO  com.browserstack.utils.Helpers - C:/Users/hammad.asif_ventured/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+21:44:49.638 [ApplicationImpl pooled thread 122] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/hammad.asif_ventured/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+21:44:49.663 [ApplicationImpl pooled thread 122] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+21:52:54.510 [ApplicationImpl pooled thread 140] INFO  c.b.l.BrowserStackRunExtension - cucumber java
+21:52:54.510 [ApplicationImpl pooled thread 140] INFO  com.browserstack.utils.Helpers - null
+21:52:54.510 [ApplicationImpl pooled thread 140] INFO  com.browserstack.utils.Helpers - C:/Users/hammad.asif_ventured/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+21:52:54.510 [ApplicationImpl pooled thread 140] INFO  c.b.l.BrowserStackRunExtension - Agent path: C:/Users/hammad.asif_ventured/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+21:52:54.511 [ApplicationImpl pooled thread 140] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4

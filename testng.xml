@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite name="All Test Suite" parallel="tests" thread-count="3">-->
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.automationteststore.TC_001"/>
+            <class name="testCases.sauceDemo.TC_LoginTest_001"/>
+        </classes>
+    </test>
+<!--    <test name="FireFoxTest">-->
+<!--        <parameter name="browser" value="firefox"/>-->
+<!--        <classes>-->
+<!--            <class name="testCases.automationteststore.TC_001"/>-->
+<!--&lt;!&ndash;            <class name="testCases.sauceDemo.TC_LoginTest_001"/>&ndash;&gt;-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
