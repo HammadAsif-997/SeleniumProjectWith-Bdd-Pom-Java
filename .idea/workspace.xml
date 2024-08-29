@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d06c478-4292-4dfb-99d1-dbc853b174e2" name="Changes" comment="This is my" />
+    <list default="true" id="1d06c478-4292-4dfb-99d1-dbc853b174e2" name="Changes" comment="This is my">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/browserstack-plugin.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/browserstack-plugin.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,7 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2gPlYh5NVA50JlV51y0Rvl86NOT" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -96,15 +100,15 @@
     "TestNG.TC_LoginTest_002.TestPostUser.executor": "Run",
     "TestNG.TC_LoginTest_002.executor": "Run",
     "TestNG.TC_LoginTest_002.loginTest.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hammad.asif_ventured/IdeaProjects/RestAssureProject1",
+    "last_opened_file_path": "C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework",
     "onboarding.tips.debug.path": "C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -130,7 +134,7 @@
       <recent name="testCases.automationteststore" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: add_to_cart">
+  <component name="RunManager" selected="TestNG.C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/testng.xml">
     <configuration name="Feature: add_to_cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/testCases/automationteststore/features/add_to_cart.feature" />
@@ -218,10 +222,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: add_to_cart" />
         <item itemvalue="TestNG.C:/Users/hammad.asif_ventured/IdeaProjects/SeleniumWebAutomationFramework/testng.xml" />
-        <item itemvalue="TestNG.TC_001.AddNewDoveItemAndVerify" />
         <item itemvalue="Cucumber Java.Scenario: Add Dove Item to Cart" />
+        <item itemvalue="Cucumber Java.Feature: add_to_cart" />
+        <item itemvalue="TestNG.TC_001.AddNewDoveItemAndVerify" />
         <item itemvalue="TestNG.TC_001.Task4Scenario2" />
       </list>
     </recent_temporary>
@@ -239,6 +243,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/seleniumwebautomation" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
