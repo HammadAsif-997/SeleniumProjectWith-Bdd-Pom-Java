@@ -120,11 +120,15 @@ browser=chrome   # or firefox
 - Cart amount accuracy validated across **3 currencies**
 - **9 end-to-end test scenarios** covering real-world shopping flows
 
+## 📊 Live Test Report
+
+🔗 [View Live Test Report](https://hammadasif-997.github.io/SeleniumProjectWith-Bdd-Pom-Java/reports/Test-Report-2024.08.29.23.26.02.html)
+
 ---
 
 ## 👤 Author
 
 **Hammad Asif**
 - 📧 hmmd97@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/hammad-asif-26466a91)
+- 🔗 [LinkedIn](https://linkedin.com/in/hammadasif)
 - 💻 [GitHub](https://github.com/HammadAsif-997)
