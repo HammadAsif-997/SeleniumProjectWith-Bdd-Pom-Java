@@ -126,5 +126,5 @@ browser=chrome   # or firefox
 
 **Hammad Asif**
 - 📧 hmmd97@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/hammadasif)
+- 🔗 [LinkedIn](https://linkedin.com/in/hammad-asif-26466a91)
 - 💻 [GitHub](https://github.com/HammadAsif-997)
